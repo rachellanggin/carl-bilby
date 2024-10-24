@@ -1,0 +1,13 @@
+# The proposed Einstein Telescope located at the site of Virgo.
+# LIGO-T980044-10
+# https://dcc.ligo.org/LIGO-P1600143/public
+name = 'ET1'
+power_spectral_density = PowerSpectralDensity(psd_file='ET_D_psd.txt')
+length = 10
+minimum_frequency = 10
+maximum_frequency = 2048
+latitude = 43.631423649
+longitude = 10.504493624
+elevation = 51.884
+xarm_azimuth = 160.5675634207413+60
+yarm_azimuth = 160.5675634207413

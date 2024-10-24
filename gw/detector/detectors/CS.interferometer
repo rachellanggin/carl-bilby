@@ -1,0 +1,10 @@
+name = 'CS'
+power_spectral_density = PowerSpectralDensity(psd_file='CE_psd.txt')
+minimum_frequency = 10
+maximum_frequency = 2048
+length = 40
+latitude = -34.0000031
+longitude = 144.9999762
+elevation = 0
+xarm_azimuth = -45
+yarm_azimuth = 45
